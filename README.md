@@ -17,3 +17,5 @@ It is mixed data, that is, both numerical and categorical data are present. The 
 7.	reading score : numerical; and
 8.	writing score : numerical
 
+The dataset is taken from 'Students Performance in Exams - Marks secured by the students in various subjects' by Jakki Seshapanpu
+Ref. - https://www.kaggle.com/spscientist/students-performance-in-exams
